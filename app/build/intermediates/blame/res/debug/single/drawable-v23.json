@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/ayoub/Downloads/LoginSignUpMix/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/ayoub/Downloads/LoginSignUpMix/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable-v23/abc_control_background_material.xml"
+    }
+]

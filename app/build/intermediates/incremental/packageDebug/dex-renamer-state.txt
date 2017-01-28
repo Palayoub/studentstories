@@ -1,0 +1,7 @@
+#Sat Jan 28 14:58:30 WET 2017
+base.0=/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c1d638cd4727cf5850b7664d7ee6ef3a3f7ed4d0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_05f336257984acec0a02e77d5ae28c5a2c933f00/classes.dex
+base.1=/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_05f336257984acec0a02e77d5ae28c5a2c933f00
+file.0=/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c1d638cd4727cf5850b7664d7ee6ef3a3f7ed4d0/classes.dex

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ayoub/Downloads/LoginSignUpMix/app/build/intermediates/res/merged/debug/drawable-hdpi/lockers.png",
+        "source": "/Users/ayoub/Downloads/LoginSignUpMix/app/src/main/res/drawable-hdpi/lockers.png"
+    },
+    {
+        "merged": "/Users/ayoub/Downloads/LoginSignUpMix/app/build/intermediates/res/merged/debug/drawable-hdpi/email.png",
+        "source": "/Users/ayoub/Downloads/LoginSignUpMix/app/src/main/res/drawable-hdpi/email.png"
+    },
+    {
+        "merged": "/Users/ayoub/Downloads/LoginSignUpMix/app/build/intermediates/res/merged/debug/drawable-hdpi/usrusr.png",
+        "source": "/Users/ayoub/Downloads/LoginSignUpMix/app/src/main/res/drawable-hdpi/usrusr.png"
+    },
+    {
+        "merged": "/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/res/merged/debug/drawable-hdpi/lockers.png",
+        "source": "/Users/ayoub/terminal/Github/Studentstories3/app/src/main/res/drawable-hdpi/lockers.png"
+    },
+    {
+        "merged": "/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/res/merged/debug/drawable-hdpi/email.png",
+        "source": "/Users/ayoub/terminal/Github/Studentstories3/app/src/main/res/drawable-hdpi/email.png"
+    },
+    {
+        "merged": "/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/res/merged/debug/drawable-hdpi/usrusr.png",
+        "source": "/Users/ayoub/terminal/Github/Studentstories3/app/src/main/res/drawable-hdpi/usrusr.png"
+    }
+]
