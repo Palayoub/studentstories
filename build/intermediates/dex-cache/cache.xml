@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_17481c25e0f76939f965ccbe05ca2f3d7fab1cc4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_82c19976354886695ee81d97054ffde79472d793/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c43dc34fbb8b725b779340dfc55748f4156da624">
+        <dex dex="/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c1d638cd4727cf5850b7664d7ee6ef3a3f7ed4d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_aa154b1bae459ca379d52ada0de0df205aeb288c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_0f77f91b98c5cd74f136fabc50a4ec1a9a55effd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoub/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_dd11fbbbcfdad5e40254d6a5056a2696467a0853/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_0669b8218acb9ba62a73f5c4fada3cda6f2dc17c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="650cf8686cd625acfbdd43f8ab33f6f2f057605f">
+        <dex dex="/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-alpha3_9c75609e8e0e528f83f036f815ad33c8ee5b2412/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="ee973eb42dbfd69206696e1793a63deeda7c8eee">
+        <dex dex="/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_05f336257984acec0a02e77d5ae28c5a2c933f00/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ayoub/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-alpha3/constraint-layout-solver-1.0.0-alpha3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="977d57354ef7ef4faa604b802d4907728e0db889">
+        <dex dex="/Users/ayoub/terminal/Github/Studentstories3/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-alpha3_dfcdfcc43745279b756b04ac3eb989aece4666ba/classes.dex" />
+    </item>
+
+</items>
